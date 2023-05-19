@@ -1,0 +1,19 @@
+{
+  "name": "so4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summiecode/an22_SD_s04.git"
+  },
+  "author": "Summie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summiecode/an22_SD_s04/issues"
+  },
+  "homepage": "https://github.com/summiecode/an22_SD_s04#readme"
+}
